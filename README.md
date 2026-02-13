@@ -89,13 +89,13 @@ SehaQuest stands out by:
 
 Premium Plan: AED 79 / year
 
-Premium Features
+Premium Features:
 - Future health previews
 - Advanced AI insights
 - Exclusive city quests
 - Customization options
 
-  Revenue Projection
+Revenue Projection:
 - 50,000 downloads
 - 6% conversion rate
 
@@ -103,13 +103,10 @@ Estimated annual revenue: AED 370,000 – 400,000
 
 ## 🛠️ Technology Stack
 
-Mobile Development: Flutter, Android Studio
-
-Health Data: Apple Health, Samsung Health
-
-Backend & Storage: Firebase / MySQL
-
-AI & Personalization: Python-based models
+- Mobile Development: Flutter, Android Studio
+- Health Data: Apple Health, Samsung Health
+- Backend & Storage: Firebase / MySQL
+- AI & Personalization: Python-based models
 
 ## 🔮 Roadmap
 
