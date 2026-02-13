@@ -36,11 +36,9 @@ Every step, walk, or active choice in real life directly improves the user’s i
 
 ### 🌆 City-Based Gameplay
 
-Explore a virtual city inspired by real urban environments
-
-Daily habits shape the growth and condition of the city
-
-Unlock new zones and quests through healthy actions
+- Explore a virtual city inspired by real urban environments
+- Daily habits shape the growth and condition of the city
+- Unlock new zones and quests through healthy actions
 
 ### 📊 Real-World Data Integration
 
@@ -55,11 +53,9 @@ No manual tracking required
 
 ### 🧠 AI-Driven Insights
 
-Personalized health recommendations
-
-No medical terminology or complex charts
-
-Focus on motivation, not pressure
+- Personalized health recommendations
+- No medical terminology or complex charts
+- Focus on motivation, not pressure
 
 ## 👥 Target Audience
 
@@ -93,7 +89,7 @@ SehaQuest stands out by:
 
 Premium Plan: AED 79 / year
 
-- Premium Features
+Premium Features
 - Future health previews
 - Advanced AI insights
 - Exclusive city quests
