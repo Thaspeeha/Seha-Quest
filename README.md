@@ -63,11 +63,9 @@ Focus on motivation, not pressure
 
 ## 👥 Target Audience
 
-Youth and students
-
-Working professionals
-
-Universities and corporate wellness programs
+- Youth and students
+- Working professionals
+- Universities and corporate wellness programs
 
 ## 📈 Market Opportunity
 
@@ -77,9 +75,8 @@ Strong shift from reactive healthcare to preventive wellness
 
 Ideal launch environment:
 
-90%+ smartphone penetration
-
-Alignment with Smart Living and Vision-based city initiatives
+- 90%+ smartphone penetration
+- Alignment with Smart Living and Vision-based city initiatives
 
 ### 🆚 Competitive Advantage
 
@@ -87,33 +84,24 @@ While apps like Finch, Zombies, Run!, and Walkr gamify wellness, they focus on s
 
 SehaQuest stands out by:
 
-Offering a living digital health twin, not just tracking
-
-Visualizing future health outcomes
-
-Using game-based motivation instead of reminders
-
-Making health progress visible and engaging
+- Offering a living digital health twin, not just tracking
+- Visualizing future health outcomes
+- Using game-based motivation instead of reminders
+- Making health progress visible and engaging
 
 ## 💰 Monetization
 
 Premium Plan: AED 79 / year
 
-Premium Features
+- Premium Features
+- Future health previews
+- Advanced AI insights
+- Exclusive city quests
+- Customization options
 
-Future health previews
-
-Advanced AI insights
-
-Exclusive city quests
-
-Customization options
-
-Revenue Projection
-
-50,000 downloads
-
-6% conversion rate
+  Revenue Projection
+- 50,000 downloads
+- 6% conversion rate
 
 Estimated annual revenue: AED 370,000 – 400,000
 
@@ -129,15 +117,11 @@ AI & Personalization: Python-based models
 
 ## 🔮 Roadmap
 
-Student pilot programs
-
-City-wide wellness challenges
-
-Institutional partnerships
-
-Expanded AI health forecasting
-
-Community and leaderboard features
+- Student pilot programs
+- City-wide wellness challenges
+- Institutional partnerships
+- Expanded AI health forecasting
+- Community and leaderboard features
 
 ## 🌱 Vision
 
