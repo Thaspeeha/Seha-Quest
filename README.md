@@ -1,4 +1,7 @@
-# 🩺 Seha-Quest
+# Create Apps Championship Participant
+
+## 🩺 Seha-Quest
+
 SehaQuest is a gamified preventive healthcare platform that helps users build sustainable health habits by transforming real-life activities into an interactive digital experience. Through a living digital health twin, users can visualize how daily choices impact their future health—without medical jargon, charts, or guilt-based reminders.
 
 ## 📌 Problem Statement
