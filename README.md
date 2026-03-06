@@ -1,4 +1,4 @@
-# Create Apps Championship Participant
+# 🌍 Create Apps Championship 2025
 
 ## 🩺 Seha-Quest
 
