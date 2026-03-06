@@ -129,6 +129,12 @@ We are making health something they want to play.
 ## 🎥 Watch the Project Video
 [Watch the video](https://vimeo.com/1151306685?share=copy&fl=sv&fe=ci)
 
+## 👥 Contributors
+[![Syeda Nizalia](https://img.shields.io/badge/Syeda-Nizalia-pink)](https://www.linkedin.com/in/syeda-nizalia/) 
+[![Sanjitha Mohammad](https://img.shields.io/badge/Sanjitha-Mohammad-red)](https://www.linkedin.com/in/sanjitha-mohammad-831556286/) 
+[![Insia Syed](https://img.shields.io/badge/Insia-Syed-purple)](https://www.linkedin.com/in/insia-syed-3645a32b2/) 
+[![Annet Cecil Thomas](https://img.shields.io/badge/Annet-Cecil-Thomas-purple)](https://www.linkedin.com/in/annetcecilthomas/) 
+
 ## 📜 License
 This project is licensed for **educational and research purposes only**.  
 Commercial use is **not permitted** without prior authorization.
