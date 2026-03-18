@@ -104,7 +104,7 @@ Revenue Projection:
 
 Estimated annual revenue: AED 370,000 – 400,000
 
-## 🛠️ Technology Stack
+## 🛠️ Proposed Technology Stack
 
 - Mobile Development: Flutter, Android Studio
 - Health Data: Apple Health, Samsung Health
