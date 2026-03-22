@@ -138,6 +138,10 @@ We are making health something they want to play.
 [![Insia Syed](https://img.shields.io/badge/Insia-Syed-purple)](https://www.linkedin.com/in/insia-syed-3645a32b2/) 
 [![Annet Cecil Thomas](https://img.shields.io/badge/Annet-CecilThomas-purple)](https://www.linkedin.com/in/annetcecilthomas/) 
 
+## 🚀 My Certificate
+
+[![Certificate](https://img.shields.io/badge/SehaQuest-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/1463455967/multiple-media-viewer/?profileId=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw&treasuryMediaId=1773137466899)
+
 ## 📜 License
 This project is licensed for **educational and research purposes only**.  
 Commercial use is **not permitted** without prior authorization.
